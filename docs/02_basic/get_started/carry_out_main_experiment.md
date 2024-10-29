@@ -48,7 +48,6 @@
 
     * `input_data` ディレクトリへアップロードするファイル：
         * [param.json](../../../data/02_basic/01_main_experiment/input_data/param.json)
-        * [param_2.json](../../../data/02_basic/01_main_experiment/input_data/param_2.json)
     * `source` ディレクトリへアップロードするファイル：
         * [01_simulation.ipynb](../../../data/02_basic/01_main_experiment/source/01_simulation.ipynb)
         * [02_normalization.ipynb](../../../data/02_basic/01_main_experiment/source/02_normalization.ipynb)
