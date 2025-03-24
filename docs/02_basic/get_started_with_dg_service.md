@@ -18,6 +18,7 @@
 1. [メタデータの状態の検証を行う](./get_started/validate_metadata.md)（下図の⑪～⑬）
     * この検証は研究中いつでも可能です。
 1. [論文を執筆する](./get_started/create_paper.md)（下図の⑭）
+1. [論文を公開する](./get_started/publish_paper.md)（下図の⑮）
 1. [研究を終了する](./get_started/finish_research.md)
 
 ![](./images/../get_started/images/schematic_of_system.png)

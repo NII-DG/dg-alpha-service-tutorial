@@ -4,6 +4,7 @@
 
 本ステップで実践する手順を以下に示します。
 
+1. [DG-Webにアクセスする際に学認認証を行う](#DG-Webにアクセスする際に学認認証を行う)
 1. [DG-Webを利用する準備を行う](#dg-webを利用する準備を行う)
 1. [ガバナンスシートを作成する](#ガバナンスシートを作成する)
 1. [メタデータを入力する](#メタデータを入力する)
@@ -12,12 +13,25 @@
 * [（オプション）検証一覧を表示する](#オプション検証一覧を表示する)
 * [まとめ](#まとめ)
 
-### DG-Webを利用する準備を行う
+### DG-Webにアクセスする際に学認認証を行う
+[DS画面](https://web.stg.dg.nii.ac.jp)を表示します。
+表示されたらGakuNin RDM IdPまたはOrthrosのIdPを選択します。
+本チュートリアルではGakuNin RDM IdPを選択します。
 
-DG-Webにアクセスします。
+| ![](./get_started/images/option_dgweb_idp_select.png) |
+|---|
+
+IdP認証画面でユーザ名とパスワードを入力し、Loginボタンをクリックします。
+
+| ![](./get_started/images/option_dgweb_input_login_info.png) |
+|---|
+
+ログインに成功するとDG-Webにアクセスされます。
 
 | ![](./get_started/images/option_dgweb_auth_01.png) |
 |---|
+
+### DG-Webを利用する準備を行う
 
 「Token の入力」にて「GRDM Token」の認証を行い、Gakunin RDMと紐づけを行います。
 
